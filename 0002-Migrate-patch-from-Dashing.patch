@@ -1,4 +1,4 @@
-From 5d34bc39c006c63b7e93a548d3e0f4916736897f Mon Sep 17 00:00:00 2001
+From a7a8d19966772c90ab4b7155ab1bc5284dac5223 Mon Sep 17 00:00:00 2001
 From: Jacob Perron <jacob@openrobotics.org>
 Date: Mon, 30 Sep 2019 12:25:00 -0700
 Subject: [PATCH 2/2] Migrate patch from Dashing
